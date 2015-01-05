@@ -29,6 +29,10 @@ public class NavigationDrawerFragment extends Fragment {
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
 
+
+
+
+    
     public static NavigationDrawerFragment newInstance(ArrayList<String> categories){
         Bundle bundle = new Bundle();
         bundle.putStringArrayList("categories", categories);
