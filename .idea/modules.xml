@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Technion-Events333.iml" filepath="$PROJECT_DIR$/Technion-Events333.iml" />
       <module fileurl="file://$PROJECT_DIR$/TechnionEvents.iml" filepath="$PROJECT_DIR$/TechnionEvents.iml" />
       <module fileurl="file://$PROJECT_DIR$/TechnionEvents1.1.iml" filepath="$PROJECT_DIR$/TechnionEvents1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
